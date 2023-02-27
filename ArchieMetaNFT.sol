@@ -1,15 +1,9 @@
 // SPDX-License-Identifier: MIT
-
-// ERC721A Contracts v4.2.0
-// Creator: Chiru Labs
-
 pragma solidity ^0.8.17;
-
 import './IERC721A.sol';
 import"./Ownable.sol";
 import "./Pausable.sol";
 import "IERC20.sol";
-
 
 /**
  * @dev Interface of ERC721 token receiver.
